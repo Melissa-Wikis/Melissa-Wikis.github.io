@@ -53,9 +53,9 @@ Melissa Wikis is &copy; 2019-{{ "now" | date: "%Y" }} by [Nicky Lalrochhara](htt
 
 ### License
 
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
+Just the Docs is distributed by an [MIT license](https://github.com/Melissa-Wikis.github.io/just-the-docs/tree/main/LICENSE.txt).
 
 ### Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
+email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/Melissa-Wikis.github.io/just-the-docs#contributing).
