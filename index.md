@@ -2,18 +2,18 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Melissa Wikis | From here you can understand how Melissa's works and how to deploy+using to your telegram groups."
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Overview
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Melissa hi telegram bot ani a, telegram group owner te group management lama chhawk zangkhai thei tu tur atan features tha ber ber leh ṭangkai tak tak te hmanga thuam ani.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+[Getting Started ](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View on Telegram][Melissa Source]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
